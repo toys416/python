@@ -1,0 +1,1 @@
+{"doctype":"execution_results","duration":"0 min 56 sec","execution_data":[],"total_passed":0,"total_exception":0,"details":{"parameters":"browser=Chrome<br/>host=https://system.netsuite.com<br/>default.user=auto1.01@oracle.com"},"id":"ter_1","total_failed":0,"total_ignored":0,"time":56295}
